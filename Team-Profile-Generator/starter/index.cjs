@@ -11,10 +11,6 @@ const dirname = path.dirname(filename);
 const OUTPUT_DIR = path.resolve(dirname, "output");
 const outputPath = path.join(OUTPUT_DIR, "team.html");
 
-
-
-
-
 const render = require("./lib/htmlRenderer.js");
 
 const employees = [];
