@@ -4,7 +4,6 @@
 ​
 - [Description](#-description)
 - [Usage](#-usage)
-- [Mock-up](#-mock-up)
 - [Technology used](#-technology-used)
 - [Installation](#-installation)
 - [Credits](#-credits)
@@ -47,12 +46,7 @@ THEN a html containing all the information will be created
 ​
 It's done when:
 ​
-- [ ] a html page of the 
-- [ ]
-- [ ]
-- [ ]
-
-​
+- [ ] a html page that displays all the employess information​
 ​
 ## �� TECHNOLOGY USED
 ​
